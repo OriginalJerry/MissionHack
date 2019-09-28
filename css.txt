@@ -1,0 +1,13 @@
+line 2 background overall -122
+line 44 tab background -122
+line 46 header text background
+line 71 hover background(student/experience)
+line 281 box shadow -122
+line 299 hover box -122
+
+contact css:
+line 21 overall background
+line 99 submit button box shadow
+line 103 submit button background
+
+line 110 for hovers
